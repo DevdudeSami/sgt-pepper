@@ -1,0 +1,19 @@
+{
+  "name": "sgt-pepper",
+  "version": "1.0.0",
+  "description": "Yet another JavaScript UI framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevdudeSami/sgt-pepper.git"
+  },
+  "author": "Youssef Moawad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevdudeSami/sgt-pepper/issues"
+  },
+  "homepage": "https://github.com/DevdudeSami/sgt-pepper#readme"
+}
